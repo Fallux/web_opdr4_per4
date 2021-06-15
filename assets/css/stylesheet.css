@@ -63,13 +63,12 @@ ul{
 #input_title{
     text-align: center;
 }
-.input_stitle{
+.input_stitle{ /*small title*/
     float: left;
     padding-right: 50px;
 }
 #inputStart{
     margin-left: 200px;
-    padding-top: -100px;
 }
 #button2{
     border: none;
@@ -77,13 +76,26 @@ ul{
     background-color: #353535;
     margin-top: 20px;
 }
-#image2{
+#img2{
     float: left;
-    margin-right: 10px;
+    width: 640px;
+    height: 490px;
+}
+.info{
+    background-image: url("../img/grayBG.png");
+    background-repeat: no-repeat;
+    background-size: auto;
+    color: black;
+    width: 640px;
+    height: 490px;
+    float: right;
+}
+.img2_t{
+    padding-left: 20px;
 }
 table{
     clear: left;
-    float: left;
+     float: left; 
     margin-left: 200px;
 }
 td.collum1 {
@@ -95,6 +107,7 @@ td.collum1 {
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
+    margin-top: 100px;
     max-width: 1280px;
     height: 670px;
 }
