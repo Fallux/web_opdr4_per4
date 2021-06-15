@@ -77,3 +77,24 @@ ul{
     background-color: #353535;
     margin-top: 20px;
 }
+#image2{
+    float: left;
+    margin-right: 10px;
+}
+table{
+    clear: left;
+    float: left;
+    margin-left: 200px;
+}
+td.collum1 {
+    padding-right: 800px;
+}
+#img3{
+    clear: both;
+    background-image: url("../img/rs_utrecht.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    max-width: 1280px;
+    height: 670px;
+}
