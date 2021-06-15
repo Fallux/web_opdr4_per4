@@ -111,6 +111,12 @@ td.collum1 {
     max-width: 1280px;
     height: 404px;
 }
+#trusted{
+    text-align: center;
+    padding-top: 50px;
+    font-size: 30px;
+    color: white;
+}
 #kaart_container{
     margin-left: 100px;
 }
@@ -121,10 +127,11 @@ td.collum1 {
     border-radius: 10px;
     float: left;
     background-color: #ffffff;
-    margin-top: 150px;
+    margin-top: 80px;
     margin-left: 40px;
     text-align: center;
     padding-top: 50px;
+    margin-bottom: 98px;
 }
 .blueBg{
     background-color:#00a4ff;
@@ -133,7 +140,7 @@ td.collum1 {
     /* clear: both; */
     /* float: left; */
     background-size: cover;
-    margin-top: 350px;
+    margin-top: 280px;
 }
 .cardPrice{
     width: 318px;
@@ -143,4 +150,143 @@ td.collum1 {
     background-color: #f0d839;
     
 }
+aside{
+    float: left;
+}
+#img4{
+    width: 335px;
+    height: 435px;
+    margin:50px;
+    float: left;
+}
+#transport_t{
+    float: left;
+    padding-left: 100px;
+}
+#travel_icon_container{
+    float: left;
+    margin-top: 150px;
+    margin-left: -300px;
 
+}
+.travel_blocks{
+    float: left;
+    margin-left: 50px;
+    text-align: center;
+    padding-top: 25px;
+    position: adaptive;
+}
+#flight_box{
+    height: 50px;
+    width: 120px;
+    color: white;
+    background-color: #00a3fe;
+    text-align: center;
+}
+/* #flight_box['1']{
+    width: 0;
+    height: 0;
+    border-top: 50px solid transparent;
+    border-left: 100px solid red;
+    border-bottom: 50px solid transparent;
+  } */
+  #cab_box{
+    height: 50px;
+    width: 120px;
+    background-color: #e4e4e4;
+    text-align: center;
+}
+#travelT{
+    width: 500px;
+    float: left;
+    padding-top: 50px;
+    padding-left: 80px;
+}
+#travelB{
+    float: left;
+    width: 170px;
+    height: 50px;
+    margin-top: 35px;
+    margin-left: 210px;
+}
+#img5{
+    
+    clear: both;
+    background-image: url("../img/ht_utrechtC.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    margin-top: 100px;
+    max-width: 1280px;
+    height: 550px;
+    opacity: 30%;
+}
+#kaart_container2{
+ margin-left: 80px;
+}
+.kaart2{
+    background-color: white;
+    width: 100%;
+    max-width: 307px;
+    height: 257px;
+    border-radius: 10px;
+    float: left;
+    margin-top: -170px;
+    margin-left: 40px;
+    text-align: center;
+    padding-top: 50px;
+    margin-bottom: 98px;
+    opacity: 99.9%;
+    border: 10px solid black;
+}
+#img6{
+    width: 100%;
+    height: 50%;
+    margin-top: -50px;
+}
+#img7{
+    width: 100%;
+    height: 50%;
+    margin-top: -50px;
+}
+#img8{
+    width: 100%;
+    height: 50%;
+    margin-top: -68px;
+}
+.hotelT{
+    margin-top: 5px;
+    margin-bottom: -15px;
+}
+.hoteldT{
+    margin-bottom: -10px;
+}
+.hotelPrice{
+    margin-top: -15px;
+    margin-bottom: 2px;
+}
+.hotelB{
+    background-color: #f0d839;
+    height: 37px;
+    border: none;
+}
+#blueBG_hotel{
+    background-color:#00a4ff;
+    width: 100%;
+    height: 205px;
+    /* clear: both; */
+    /* float: left; */
+    background-size: cover;
+    /* margin-top: 280px; */
+}
+#img9{
+    background-image: url("../img/img9.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    max-width: 1280px;
+    height: 665px;
+    opacity: 30%;
+    float: left;
+    text-align: center;
+}
