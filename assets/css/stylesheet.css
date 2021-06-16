@@ -29,26 +29,36 @@ ul{
     float: left;
     display: block;
 }
+.nav_list{
+    float: right;
+}
 .fig_nav{
     float: left;
     display: block;
     color: yellow;
+    font-size: 20px;
+    margin-left: 40px;
+    padding-right: 50px;
 }
 #utrecht{
     text-align: center;
     padding-top: 270px;
     font-family: Monsterrat;
+    font-size: 48px;
 }
 #lorem{
     text-align: center;
     padding-top: 10px;
     color: white;
+    font-size: 24px;
 }
 #button1{
     width: 100%;
     height: 45px;
     max-width: 175px;
     background-color: #f9e03b;
+    font-size: Monsterrat;
+    font-size: 20px;
     border: none;
     text-align: center;
     margin-left: 550px;
@@ -62,13 +72,17 @@ ul{
 }
 #input_title{
     text-align: center;
+    padding-top: 40px;
+    font-size: 20px;
 }
 .input_stitle{ /*small title*/
     float: left;
-    padding-right: 50px;
+    padding-right: 20px;
+    margin-left: 20px;;
 }
 #inputStart{
-    margin-left: 200px;
+    margin-left: 100px;
+    padding-top: -100px;
 }
 #button2{
     border: none;
@@ -92,6 +106,13 @@ ul{
 }
 .img2_t{
     padding-left: 20px;
+}
+.img2_tx{
+    font-size: 18px;
+}
+.far fa-check-circle{
+    margin-top: 20px;
+    font-size: 20px;
 }
 table{
     clear: left;
@@ -235,9 +256,8 @@ aside{
     margin-left: 40px;
     text-align: center;
     padding-top: 50px;
-    margin-bottom: 98px;
+    margin-bottom: 100px;
     opacity: 99.9%;
-    border: 10px solid black;
 }
 #img6{
     width: 100%;
@@ -261,6 +281,9 @@ aside{
 .hoteldT{
     margin-bottom: -10px;
 }
+.hotel_text{
+    font-weight: bolder;
+}
 .hotelPrice{
     margin-top: -15px;
     margin-bottom: 2px;
@@ -274,10 +297,7 @@ aside{
     background-color:#00a4ff;
     width: 100%;
     height: 205px;
-    /* clear: both; */
-    /* float: left; */
-    background-size: cover;
-    /* margin-top: 280px; */
+    margin-bottom: -30px;
 }
 #img9{
     background-image: url("../img/img9.jpg");
@@ -286,7 +306,109 @@ aside{
     width: 100%;
     max-width: 1280px;
     height: 665px;
-    opacity: 30%;
+    opacity: 50%;
     float: left;
     text-align: center;
+    margin-top: -31px;
+    margin-bottom: -500px;
+}
+#eventsT{
+    color: black;
+    width: 100%;
+    opacity: 99.9%;
+    font-size: 50px;
+    text-align: center;
+}
+#kaart_container3{
+    margin-left: 80px;
+    
+}
+.kaart3{
+    background-color: white;
+    width: 100%;
+    max-width: 307px;
+    height: 257px;
+    border-radius: 10px;
+    float: left;
+    margin-left: 40px;
+    text-align: center;
+    padding-top: 50px;
+    opacity: 99.9%;
+}
+#img10{
+    width: 100%;
+    height: 50%;
+    margin-top: -50px;
+    margin-bottom: -30px;
+}
+.eventB{
+    background-color: #f0d839;
+    height: 37px;
+    border: none;
+}
+.eventsdT{
+    text-align: center;
+}
+.eventText{
+    text-align: center;
+    font-style: italic;
+}
+#whtebg{
+    background-color: white;
+    width: 1280px;
+    height: 685px;
+}
+#img11{
+    background-image: url("../img/image11.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    max-width: 805px;
+    height: 504px;
+    float: left;
+    margin-top: 90px;
+    margin-left: 70px;
+    margin-bottom: 65px;
+}
+#sEventBg{
+    width: 100%;
+    max-width: 475px;
+    height: 360px;
+    background-color: white;
+    border: 1px solid black;
+    margin-left: 700px;
+    margin-top: 500px;
+    position: absolute;
+    border-radius: 10px;
+
+}
+#sEventB{
+    background-color: #f0d839;
+    height: 37px;
+    border: none;
+    float: right;
+    margin-right: 150px;
+}
+#utrecht_review{
+    clear: both;
+    background-image: url("../img/utrecht_review.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    max-width: 1280px;
+    height: 670px;
+}
+#opacity_colorReview{
+    width: 100%;
+    max-width: 1280px;
+    height: 670px;
+    background-color: #212226;
+    opacity: 50%;
+}
+#white{
+    color: white;
+    width: 100%;
+    font-size: 150%;
+    text-align: center;
+    padding-top: 100px;
 }

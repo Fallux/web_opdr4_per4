@@ -1,0 +1,134 @@
+#container{
+    width: 100%;
+    max-width: 1280px;
+    margin:0 auto;
+    /* background-color: aquamarine; */
+}
+#bg_head{
+    background-color: #151c35;
+    width: 100%;
+    max-width: 1280px;
+    height: 115px;
+    position:absolute;
+    opacity: 50%;
+}
+#img1{
+    background-image: url("../img/buildings_utrecht.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    max-width: 1280px;
+    height: 670px;
+}
+ul{
+    list-style: none;
+    opacity: 200%;
+}
+.contact_options_t{
+    color: white;
+    float: left;
+    display: block;
+}
+.nav_list{
+    float: right;
+}
+.fig_nav{
+    float: left;
+    display: block;
+    color: yellow;
+    font-size: 20px;
+    margin-left: 40px;
+    padding-right: 50px;
+}
+#utrecht{
+    text-align: center;
+    padding-top: 270px;
+    font-family: Monsterrat;
+    font-size: 48px;
+}
+#lorem{
+    text-align: center;
+    padding-top: 10px;
+    color: white;
+    font-size: 24px;
+}
+#button1{
+    width: 100%;
+    height: 45px;
+    max-width: 175px;
+    background-color: #f9e03b;
+    font-family: Monsterrat;
+    font-size: 20px;
+    border: none;
+    text-align: center;
+    margin-left: 550px;
+
+}
+#input_bg{
+    width: 100%;
+    background-color: #f9e03b;
+    height: 266px;
+    margin-top: -20px;
+}
+#input_title{
+    text-align: center;
+    padding-top: 40px;
+    font-size: 20px;
+}
+.input_stitle{
+    float: left;
+    padding-right: 20px;
+    margin-left: 20px;
+}
+#inputStart{
+    margin-left: 100px;
+    padding-top: -100px;
+}
+#button2{
+    border: none;
+    color: aliceblue;
+    background-color: #353535;
+    margin-top: 20px;
+}
+#image2{
+    float: left;
+    margin-right: 10px;
+    width: 640px;
+    height: 490px;
+}
+.img2_t{
+    font-size: 32px;
+}
+.img2_tx{
+    font-size: 18px;
+}
+.far fa-check-circle{
+    margin-top: 20px;
+    font-size: 20px;
+}
+table{
+    clear: both;
+    float: left;
+    margin-left: 200px;
+}
+#services{
+    float: left;
+    font-size: 30px;
+}
+td.collum1 {
+    padding-right: 800px;
+    font-size: 18px;
+}
+td.collum2 {
+    padding-right: 800px;
+    font-size: 18px;
+}
+#img3{
+    clear: both;
+    background-image: url("../img/rs_utrecht.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    max-width: 1280px;
+    height: 670px;
+}

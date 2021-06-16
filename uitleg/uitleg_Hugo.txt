@@ -1,0 +1,33 @@
+class = price
+background image url
+background-size: cover
+background-repeat: no-repeat
+width: 100%
+height: 404px
+voorde icons een aparte div aanmaken
+font awesome
+fas fa car voor de auto icon
+
+kaart
+width 307
+height 330
+border 10 px
+float left
+
+
+
+.card:first-of-type{
+margin-left: 140px;
+}
+
+big symbol = de car  train and airplane
+bigsym{
+font-size
+}
+
+card price 318px width
+margin-left:6px
+padding: 8.4px 0; /*zorgt er voor dat de linker zijde en rechter zijde niet reageren op de padding*/
+font-size 24.3px
+
+335 435
